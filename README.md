@@ -9,3 +9,8 @@ Pasirinkite ar norite ivesti studentus(spauskite 1), nuskaityti is failo(spauski
 2.4 Paspausdus 4 iveskyte studento duomenis rankiniu (1) budu arba sugeneruokyte (2) ir stebekyte rezultata.
 
 2.5 Paspausdus 5 stebekyte objekto kurimo rezultata.
+
+
+Diegimo ir paleidimo proceso instrukcija:
+
+Atsisiuskyte zip faila, ir istraukite setup.exe/msi faila. Suinstaliokite programa paspaudus ant setup.exe arba setup.msi failo. Pasirinkite norima programos idiegimo kelia (automatiskai programa atsiras aplankale "Program Files x86" -> "VU" -> "Vardenis-Pavardenis", kelia galima pakeisti i jums norima). Po instaliacijos programos shortcut pavadinimu "My_program_shortcut", paspaudus ji atsidarys veikianti programa. 
